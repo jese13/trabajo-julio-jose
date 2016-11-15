@@ -6,5 +6,11 @@ def genera():
       if not (numero) in L:
         mi_lista.append(numero)
       return mi_lista
+    
+def comprueba (X,L):
+  if X in L:
+    return false
+  else: 
+    return true
  
 
