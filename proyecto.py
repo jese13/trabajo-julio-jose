@@ -4,8 +4,8 @@ def genera():
   mi_lista=[]
   while len(mi_lista)<6:
        numero=random.choice(L)
-  if not (numero) in L:
-        mi_lista.append(numero)
+        if not (numero) in L:
+          mi_lista.append(numero)
   return mi_lista
 
     
