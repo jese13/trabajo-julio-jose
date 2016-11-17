@@ -1,1 +1,4 @@
-# trabajo-julio-jose
+# trabajo-julio-jose-carlos
+ALUMNO A : JULIO SEPÚLVEDA
+ALUMNO B : JOSE PALTA
+ALUMNO C : CARLOS DE LAIRE
